@@ -42,5 +42,5 @@ Pizza.initialize = async () => {
     console.log('postgres connection ready')
   }).catch(err => console.error(err))
 }
-//test
+
 module.exports = Pizza
